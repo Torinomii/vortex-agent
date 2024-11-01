@@ -1,7 +1,7 @@
 #!/bin/bash
 
 vortex_agent_version="0.1.0"
-gost_version="3.0.0-nightly.20240201"
+gost_version="3.0.0-nightly.20241031"
 
 vortex_agent_id=""
 vortex_agent_key=""
